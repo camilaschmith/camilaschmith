@@ -1,9 +1,8 @@
 <h1 align="center">Hey 👋, I'm Camila Schmith</h1>
-<h3 align="center">I'm an Automation Engineer/Software Engineer. 
-                    I am passionate about optimizing performance and resolving operational challenges 
-  
-  I have proficiency in SQL, C#, .NET, Python, VB.</h3>
+<h3 align="center">I'm an Automation Engineer/Software Engineer. I am passionate about optimizing performance and resolving operational challenges.</h3>
 
+- 📄 I have proficiency in **SQL, C#, .NET, Python, VB**
+  
 - 🌱 I’m currently learning **ASP.NET, Kubetnets, Doker, React**
 
 - 📫 How to reach me **schmithcamila@gmail.com**
