@@ -1,12 +1,12 @@
 <h2 align="left"> <em>Hey, I'm Camila<em/></h2>
 <!--h3 align="center">- 👩‍💻I'm an Automation Engineer/Software Engineer.</h3-->
-<p>
+<h4 align="left">
 - 👩‍💻 I'm an Automation Engineer/Software Engineer.
   
 - ✨ I am passionate about optimizing performance and resolving operational challenges.
   
 - 🌱 I’m currently learning **ASP.NET, Kubetnets, Doker, React and JavaScript**
-</p>
+</h4>
 
 <!-- 📫 How to reach me **schmithcamila@gmail.com**-->
 
