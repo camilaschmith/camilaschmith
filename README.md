@@ -1,5 +1,6 @@
-<h1 align="center">Hey 👋, I'm Camila</h1>
-<h3 align="center">I'm an Automation Engineer/Software Engineer.</h3>
+<h2 align="center">*Hey 👋, I'm Camila*</h2>
+<!--h3 align="center">- 👩‍💻I'm an Automation Engineer/Software Engineer.</h3-->
+- 👩‍💻 I'm an Automation Engineer/Software Engineer.
 
 - ✨ I am passionate about optimizing performance and resolving operational challenges.
   
