@@ -1,4 +1,4 @@
-<h2 align="center">Hey 👋, I'm Camila</h2>
+<h2 align="left">Hey 👋, I'm Camila</h2>
 <!--h3 align="center">- 👩‍💻I'm an Automation Engineer/Software Engineer.</h3-->
 
 - 👩‍💻 I'm an Automation Engineer/Software Engineer.
